@@ -1,4 +1,4 @@
-// Use this if internet speed on Arch linux is low
+# Use this if internet speed on Arch linux is low
 
 sudo pacman -S reflector
 
